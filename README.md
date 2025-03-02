@@ -1,8 +1,6 @@
-# HEROKU-commands
-
 # Heroku CLI Commands
 
-This document provides a list of commonly used **Heroku CLI** commands for managing Heroku applications, deployments, logs, and more.
+This document lists commonly used **Heroku CLI** commands for managing Heroku applications, deployments, logs, and more.
 
 ---
 
